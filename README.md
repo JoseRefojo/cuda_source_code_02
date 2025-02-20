@@ -22,3 +22,8 @@ thread2dStl - shows how to allocate, transfer and deal with 2d data by using C++
 thread3dStl - shows how to allocate, transfer and deal with 3d data by using C++ Stl vectors
 
 ======================================================================================
+
+git remote add origin git@github.com:JoseRefojo/cuda_source_code_02.git
+
+======================================================================================
+
